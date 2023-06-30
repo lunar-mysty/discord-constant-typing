@@ -4,3 +4,7 @@ REPLACE [CHANNELID] and [DISCORDTOKEN] WITH THE CHANNEL YOU WANT TO BE CONSTANTL
 python script that makes it seem like you are constanly typing in a channel
 
 works in dms, group dms and server channels
+
+based off this video
+
+i just made it into a ptython script
