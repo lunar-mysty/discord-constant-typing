@@ -3,7 +3,7 @@ REPLACE [CHANNELID] and [DISCORDTOKEN] WITH THE CHANNEL YOU WANT TO BE CONSTANTL
 
 YOU ALSO NEED TO INSTALL REQUESTS TO YOUR COMPUTER BY OPENING THE COMMAND LINE AND TYPING IN "pip install requests"
 
-why am i even telling you guys how to use python, yous should be able to figure it iu yourself anyway lmao
+why am i even telling you guys how to use python, yous should be able to figure it out yourself anyway lmao
 # discord-constant-typing
 python script that makes it seem like you are constanly typing in a channel
 
